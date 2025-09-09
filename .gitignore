@@ -130,4 +130,5 @@ dmypy.json
 
 #Data folders
 zippedData/
-unzippeddata/
+unzippedData/
+.DS_Store
